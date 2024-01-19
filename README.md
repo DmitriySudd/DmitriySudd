@@ -1,8 +1,4 @@
-Hi 👋 My name is Dmitriy Sudakov 
-Developer 
-I want to learn the profession of a developer * 
-🌍 I'm based in Izhevsk * 
-✉️ You can contact me at [dimsud1@gmail.com](mailto:dimsud1@gmail.com)
+Hi 👋 My name is Dmitriy Sudakov ================================ Developer --------- I want to learn the profession of a developer * 🌍 I'm based in Izhevsk * ✉️ You can contact me at [dimsud1@gmail.com](mailto:dimsud1@gmail.com)
 
 ### Skills
 
